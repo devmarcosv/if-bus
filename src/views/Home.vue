@@ -6,25 +6,25 @@
   <figcaption>
     <img src="https://i.pinimg.com/564x/c5/57/fb/c557fbfc19e9679f1779ecf009deebc1.jpg" alt="profile-sample4" class="profile" />
     <h2>Mikey Manjiro<span>Motorista</span></h2>
-    <p> Tenho ansiedade.</p>
+    <p>Linha 21 .</p>
     <a href="#" class="follow">Denúnciar</a>
     <router-link to="/profile"> Mais informações </router-link>
   </figcaption>
 </figure>
 <figure class="snip1336 hover"><img src="https://i.pinimg.com/564x/6c/dd/21/6cdd21b01f5984494674b4b02259b4cd.jpg" alt="sample74" />
   <figcaption>
-    <img src="https://i.pinimg.com/564x/c1/b2/2c/c1b22c9fecde10a4a6eff1f537f88370.jpg" alt="profile-sample2" class="profile" />
+    <img src="https://i.pinimg.com/564x/96/78/a5/9678a583caf564de0959e0f262ab2bf6.jpg" alt="profile-sample2" class="profile" />
     <h2>Draken<span>Motorista</span></h2>
     <p>Linha 17.</p>
     <a href="#" class="follow">Denúnciar</a>
-    <a href="#" class="info">Mais informações</a>
+    <router-link to="/user"> Mais informações </router-link>
   </figcaption>
 </figure>
 <figure class="snip1336"><img src="https://i.pinimg.com/564x/6c/dd/21/6cdd21b01f5984494674b4b02259b4cd.jpg" alt="sample69" />
   <figcaption>
     <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample5.jpg" alt="profile-sample5" class="profile" />
-    <h2>Desmond Eagle<span>Accountant</span></h2>
-    <p>If you want to stay dad you've got to polish your image. I think the image we need to create for you is "repentant but learning".</p>
+    <h2>Tony Stark<span>Motorista</span></h2>
+    <p>20 anos de experiência</p>
     <a href="#" class="follow">Denúnciar</a>
     <a href="#" class="info">Mais informações</a>
   </figcaption>

@@ -67,7 +67,7 @@
         <div class="ufo-bar-col2">
             <div class="ufo-bar-col2-inner">
                 <div class="user-icon-wrapper">
-                    <img class="user-icon" src="https://i.pinimg.com/564x/c5/57/fb/c557fbfc19e9679f1779ecf009deebc1.jpg" alt="">
+                    <img class="user-icon" src="https://i.pinimg.com/564x/96/78/a5/9678a583caf564de0959e0f262ab2bf6.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -76,7 +76,7 @@
                 <div class="username-wrapper-outer">
                     <div class="username-wrapper">
                         <div class="verified" style="opacity: 0; top: 150%;"><p>Verified Account</p></div>
-                        <h3 class="username-dev" style="color: white;">Mikey Manjiro</h3>
+                        <h3 class="username-dev" style="color: white;">Draken</h3>
                         <svg class="uname-verified"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350.03 1326.16">
                             <g id="Layer_3" data-name="Layer 3">
                                 <polygon class="cls-11" points="0 747.37 120.83 569.85 70.11 355.04 283.43 292.38 307.3 107.41 554.93 107.41 693.66 0 862.23 120.83 1072.57 126.8 1112.84 319.23 1293.35 399.79 1256.05 614.6 1350.03 793.61 1197.87 941.29 1202.35 1147.15 969.64 1178.48 868.2 1326.16 675.02 1235.17 493.77 1315.72 354.99 1133.73 165.58 1123.29 152.16 878.64 0 747.37"/></g>
@@ -151,7 +151,7 @@
 <script>
 
 export default ({
-    
+    name: 'user'
 })
 </script>
 <style>
